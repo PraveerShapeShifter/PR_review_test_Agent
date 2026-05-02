@@ -6,7 +6,7 @@
 int main()
 {
     std::cout << "Hello World!\n";
-    int* p =0;
+    int* p = 0;
 
     std::cout << *p <<'\n';
 }
