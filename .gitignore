@@ -10,6 +10,7 @@
 # Precompiled Headers
 *.gch
 *.pch
+*.vs
 
 # Linker files
 *.ilk
@@ -67,3 +68,4 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+Debug/
